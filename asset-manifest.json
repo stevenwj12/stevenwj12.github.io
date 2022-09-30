@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f9a4b3a.css",
+    "main.js": "/static/js/main.ffaf29af.js",
+    "static/media/pasfoto.jpg": "/static/media/pasfoto.4ae82bf1cda43cf6c3d3.jpg",
+    "static/media/bg.jpg": "/static/media/bg.80ab6e6f4b0ac8a6ddcd.jpg",
+    "static/media/bg-1.jpg": "/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/Poppins-Thin.ttf": "/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/shape-bg.png": "/static/media/shape-bg.33231beaade5006b66e9.png",
+    "index.html": "/index.html",
+    "main.8f9a4b3a.css.map": "/static/css/main.8f9a4b3a.css.map",
+    "main.ffaf29af.js.map": "/static/js/main.ffaf29af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f9a4b3a.css",
+    "static/js/main.ffaf29af.js"
+  ]
+}
