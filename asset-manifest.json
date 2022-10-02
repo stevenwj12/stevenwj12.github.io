@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8baa2d2e.css",
-    "main.js": "/static/js/main.e5c9900f.js",
+    "main.css": "/static/css/main.2cf44755.css",
+    "main.js": "/static/js/main.9bdccf99.js",
     "static/media/pasfoto.jpg": "/static/media/pasfoto.4ae82bf1cda43cf6c3d3.jpg",
     "static/media/bg.jpg": "/static/media/bg.80ab6e6f4b0ac8a6ddcd.jpg",
     "static/media/bg-1.jpg": "/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
@@ -14,11 +14,11 @@
     "static/media/Poppins-ExtraBold.ttf": "/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
     "static/media/shape-bg.png": "/static/media/shape-bg.33231beaade5006b66e9.png",
     "index.html": "/index.html",
-    "main.8baa2d2e.css.map": "/static/css/main.8baa2d2e.css.map",
-    "main.e5c9900f.js.map": "/static/js/main.e5c9900f.js.map"
+    "main.2cf44755.css.map": "/static/css/main.2cf44755.css.map",
+    "main.9bdccf99.js.map": "/static/js/main.9bdccf99.js.map"
   },
   "entrypoints": [
-    "static/css/main.8baa2d2e.css",
-    "static/js/main.e5c9900f.js"
+    "static/css/main.2cf44755.css",
+    "static/js/main.9bdccf99.js"
   ]
 }
